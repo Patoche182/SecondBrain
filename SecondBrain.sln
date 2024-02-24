@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les Classes", "..\Classes\L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les Variables", "..\Les Variables\Les Variables.csproj", "{3557BC46-4CA4-43F9-866D-0E59E8EC79D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les Fonctions", "..\Les Fonctions\Les Fonctions.csproj", "{F7DA74EB-34DD-419E-9F4A-A7166AB2F12F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{3557BC46-4CA4-43F9-866D-0E59E8EC79D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3557BC46-4CA4-43F9-866D-0E59E8EC79D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3557BC46-4CA4-43F9-866D-0E59E8EC79D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7DA74EB-34DD-419E-9F4A-A7166AB2F12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DA74EB-34DD-419E-9F4A-A7166AB2F12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DA74EB-34DD-419E-9F4A-A7166AB2F12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DA74EB-34DD-419E-9F4A-A7166AB2F12F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{420D34F9-B936-4D36-BA97-183EA3207C71} = {974DDCD6-EA48-4F8B-9D48-01A1059A040D}
 		{3557BC46-4CA4-43F9-866D-0E59E8EC79D2} = {974DDCD6-EA48-4F8B-9D48-01A1059A040D}
+		{F7DA74EB-34DD-419E-9F4A-A7166AB2F12F} = {974DDCD6-EA48-4F8B-9D48-01A1059A040D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {784D53CD-9E1D-4F53-8388-FDFC0C43C04C}

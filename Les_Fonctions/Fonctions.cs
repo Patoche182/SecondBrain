@@ -27,7 +27,7 @@ namespace Les_Fonctions
             Console.WriteLine("3 + 5 = " + Calculer(3, 5)); // Optimisation
             Console.WriteLine("1 + 5 = " + Calculer(1, 5));
             Console.WriteLine("9 + 5 = " + Calculer(9, 5));
-            Console.WriteLine("168 + 2 = " + Calculer(168, 2));
+            Console.WriteLine("168 + 2 = " + Calculer(168, 2)); // "168 + 2 = 170"
         }
 
         static void DireBonjour() // Static => Permet d'être appler sans devoir instancier la class
@@ -42,7 +42,7 @@ namespace Les_Fonctions
 
         static int Calculer(int nombre1, int nombre2)
         {
-            int resultat = 0;
+            int resultat = 0; // Initialisation 
             resultat = nombre1 + nombre2;
             return resultat;
         }

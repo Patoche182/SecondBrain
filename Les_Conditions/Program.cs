@@ -2,7 +2,7 @@
 // Fonctionnement des statement : If - Else If - Else (Else If autant que nécéssaire)
 // Double égal pour VERIFIER une égalité et non l' ATTRIBUER   ==
 // Exclamation égale ==> 'différent de'  !=
-// Switch
+// Switch Case Break, If - Else If - Else
 
 
 namespace Les_Conditions

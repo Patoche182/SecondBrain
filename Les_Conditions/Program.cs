@@ -37,6 +37,7 @@ namespace Les_Conditions
                 Console.WriteLine("Nom = toto");
             }
 
+            // SWITCH CASE
             switch (age)
             {
                 case 1:
@@ -62,10 +63,12 @@ namespace Les_Conditions
             Console.WriteLine("Solde =  " + solde);
         }
 
+        // VARIABLE
         static float solde = 100;
         static int age = 25;
         static string nom = "toto";
 
+        // METHODE
         static void AcheterProduit(float prix)
         {
             if (solde >= prix)

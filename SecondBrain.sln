@@ -5,15 +5,19 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Csharp", "Csharp", "{898547A7-1D8F-4FA9-8DD1-81C6149BDFA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les_Classes", "Les_Classes\Les_Classes.csproj", "{90176C48-2784-4991-8757-4E85308BACC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Les_Classes", "Les_Classes\Les_Classes.csproj", "{90176C48-2784-4991-8757-4E85308BACC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les_Variables", "Les_Variables\Les_Variables.csproj", "{B4E2CFA8-3B60-475D-ABB6-22A0B1770EBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Les_Variables", "Les_Variables\Les_Variables.csproj", "{B4E2CFA8-3B60-475D-ABB6-22A0B1770EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les_Fonctions", "Les_Fonctions\Les_Fonctions.csproj", "{D8DB18C3-FBC7-4DD9-80AA-CD09F80220DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Les_Fonctions", "Les_Fonctions\Les_Fonctions.csproj", "{D8DB18C3-FBC7-4DD9-80AA-CD09F80220DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les_Conditions", "Les_Conditions\Les_Conditions.csproj", "{547BCD96-DA29-4017-996F-D342670450B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Les_Conditions", "Les_Conditions\Les_Conditions.csproj", "{547BCD96-DA29-4017-996F-D342670450B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les_Boucles", "Les_Boucles\Les_Boucles.csproj", "{E90751FC-3202-4953-83D7-8576E746F6F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Les_Boucles", "Les_Boucles\Les_Boucles.csproj", "{E90751FC-3202-4953-83D7-8576E746F6F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les_Tableaux", "Les_Tableaux\Les_Tableaux.csproj", "{0461EE30-5042-46E0-9C84-0171B87700EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les_Listes", "Les_Listes\Les_Listes.csproj", "{508D153A-777A-4EB8-87A5-CA6C39A7DEAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,14 @@ Global
 		{E90751FC-3202-4953-83D7-8576E746F6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E90751FC-3202-4953-83D7-8576E746F6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E90751FC-3202-4953-83D7-8576E746F6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0461EE30-5042-46E0-9C84-0171B87700EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0461EE30-5042-46E0-9C84-0171B87700EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0461EE30-5042-46E0-9C84-0171B87700EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0461EE30-5042-46E0-9C84-0171B87700EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508D153A-777A-4EB8-87A5-CA6C39A7DEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508D153A-777A-4EB8-87A5-CA6C39A7DEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508D153A-777A-4EB8-87A5-CA6C39A7DEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508D153A-777A-4EB8-87A5-CA6C39A7DEAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +63,8 @@ Global
 		{D8DB18C3-FBC7-4DD9-80AA-CD09F80220DF} = {898547A7-1D8F-4FA9-8DD1-81C6149BDFA6}
 		{547BCD96-DA29-4017-996F-D342670450B0} = {898547A7-1D8F-4FA9-8DD1-81C6149BDFA6}
 		{E90751FC-3202-4953-83D7-8576E746F6F7} = {898547A7-1D8F-4FA9-8DD1-81C6149BDFA6}
+		{0461EE30-5042-46E0-9C84-0171B87700EC} = {898547A7-1D8F-4FA9-8DD1-81C6149BDFA6}
+		{508D153A-777A-4EB8-87A5-CA6C39A7DEAD} = {898547A7-1D8F-4FA9-8DD1-81C6149BDFA6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {784D53CD-9E1D-4F53-8388-FDFC0C43C04C}

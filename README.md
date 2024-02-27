@@ -1,5 +1,9 @@
 # SecondBrain
 
+[![](https://design-assistant.internal.expleogroup.com/assets/img/test_robot.png)](https://design-assistant.internal.expleogroup.com/)
+
+
+<img src="https://design-assistant.internal.expleogroup.com/assets/img/test_robot.png" alt="https://design-assistant.internal.expleogroup.com/assets/img/test_robot.png" width="200"/>
 
 `RGB(0,255,0)`Variables
 <span style="color:red">some **This is Red Bold.** text</span>

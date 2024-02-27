@@ -6,6 +6,7 @@
 <p>Welcome to my page! </br> I'm Patrice, C# developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Toulouse, France</b></p>
 <h3>Things I code with</h3>
 <p>
+  ![Static Badge](https://img.shields.io/badge/C%23-C%20Sharp-magenta)
   <img alt="C#" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Google" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />

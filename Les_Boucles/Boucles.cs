@@ -16,7 +16,7 @@ namespace Les_Boucles
                 Console.WriteLine("coucou For " + i);
             }
 
-            // Boucle WHILE
+            // Boucle WHILE (et Do-While)
             Console.WriteLine("\nBoucles While\n");
             int j = 1;
             while (j <= 20)

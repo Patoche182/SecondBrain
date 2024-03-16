@@ -1,5 +1,6 @@
 ﻿// Les listes - Ressemble aux Tableaux
 // Avec les listes on peut ajouter des éléments
+// Les listes sont très puissantes
 // Opérations possible sur les listes : Add AddRange BinarySearch Clear Contains Find Foreach Insert InsertRange Remove RemoveAt RemoveRange Sort TrimExcess TrueForAll
 
 namespace Les_Listes

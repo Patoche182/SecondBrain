@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Ceci est de la Programmation Orienté Objet");
+            Console.WriteLine("Ceci est de la Programmation Orienté Objet");
+            Console.WriteLine("Ceci est de la Programmation Orienté Objet");
         }
     }
 }

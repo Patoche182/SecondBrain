@@ -42,8 +42,14 @@ namespace Variables
             int result = int.Parse(nombre);  //  int => type que je souhaite; nombre => chaine de caractère que je souhaite convertir avec Parse
             Console.WriteLine("le résultat est : " + result);
 
+            // concatenated
             int age3 = int.Parse(Console.ReadLine()); // On .Parse() la valeur écrite par l'utilisateur pour qu'elle corresponde à notre 'int'
             Console.WriteLine("l'age est : " + age3);
+
+            // interpolation ($"...-{...}-...")
+            string name = "Jane";
+            Console.WriteLine($"Hello {name}!"); // => "Hello Jane!"
+
         }
     }
 }

@@ -33,8 +33,8 @@ namespace Les_Conditions
             if (nom == "toto")
             {
                 Console.WriteLine("Nom = toto");
-                Console.WriteLine("Nom = toto");
-                Console.WriteLine("Nom = toto");
+                Console.WriteLine("Nom = titi");
+                Console.WriteLine("Nom = tata");
             }
 
             // SWITCH CASE

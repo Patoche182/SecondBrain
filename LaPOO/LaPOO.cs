@@ -37,8 +37,9 @@ class LaPOO
 
         public void Log()
         {
-            Console.WriteLine($"x = {x}");
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine("Ceci est de la Programmation Orienté Objet");
+            Console.WriteLine("Ceci est de la Programmation Orienté Objet");
+            Console.WriteLine("Ceci est de la Programmation Orienté Objet");
         }
     }
 
